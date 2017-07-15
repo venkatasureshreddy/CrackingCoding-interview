@@ -44,6 +44,7 @@ public class UniqueCharactersInString {
 		UniqueCharactersInString obj = new UniqueCharactersInString();
 		System.out.println(obj.finalchecker(obj.uniqueCharChecker(s)));
 		System.out.println("This is sample projectfor Git");
+		System.out.println("This is feature branch");
 	}
 
 }
