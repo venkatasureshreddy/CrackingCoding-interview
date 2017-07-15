@@ -43,6 +43,7 @@ public class UniqueCharactersInString {
 		n = s.length();
 		UniqueCharactersInString obj = new UniqueCharactersInString();
 		System.out.println(obj.finalchecker(obj.uniqueCharChecker(s)));
+		System.out.println("This is sample projectfor Git");
 	}
 
 }
